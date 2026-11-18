@@ -38,7 +38,7 @@ namespace SchedulEaseApp
             // Teacher Button ("T")
             btnTeacher = CreateCardButton("Teacher", 190);
             btnTeacher.Click += (s, e) => {
-                MessageBox.Show("Navigating to Teacher Login...", "SchedulEase");
+                MessageBox.Show("Navigating to Teacher Login.....", "SchedulEase");
                 // Open Teacher Login Form here
             };
             this.Controls.Add(btnTeacher);
