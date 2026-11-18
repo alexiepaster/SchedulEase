@@ -13,7 +13,7 @@ namespace SchedulEaseApp
 
         public MainForm()
         {
-            InitializeComponent();
+           
             SetupCustomUI();
         }
 

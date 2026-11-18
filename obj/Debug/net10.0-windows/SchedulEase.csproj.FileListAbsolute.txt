@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\SchedulEase\obj\Debug\net10.0-windows\SchedulEase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\SchedulEase\obj\Debug\net10.0-windows\SchedulEase.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\SchedulEase\obj\Debug\net10.0-windows\SchedulEase.AssemblyInfo.cs
+C:\Users\Administrator\Documents\SchedulEase\obj\Debug\net10.0-windows\SchedulEase.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\SchedulEase\obj\Debug\net10.0-windows\SchedulEase.sourcelink.json
+C:\Users\Administrator\Documents\SchedulEase\bin\Debug\net10.0-windows\SchedulEase.exe
+C:\Users\Administrator\Documents\SchedulEase\bin\Debug\net10.0-windows\SchedulEase.deps.json
+C:\Users\Administrator\Documents\SchedulEase\bin\Debug\net10.0-windows\SchedulEase.runtimeconfig.json
+C:\Users\Administrator\Documents\SchedulEase\bin\Debug\net10.0-windows\SchedulEase.dll
+C:\Users\Administrator\Documents\SchedulEase\bin\Debug\net10.0-windows\SchedulEase.pdb
+C:\Users\Administrator\Documents\SchedulEase\obj\Debug\net10.0-windows\SchedulEase.dll
+C:\Users\Administrator\Documents\SchedulEase\obj\Debug\net10.0-windows\refint\SchedulEase.dll
+C:\Users\Administrator\Documents\SchedulEase\obj\Debug\net10.0-windows\SchedulEase.pdb
+C:\Users\Administrator\Documents\SchedulEase\obj\Debug\net10.0-windows\SchedulEase.genruntimeconfig.cache
+C:\Users\Administrator\Documents\SchedulEase\obj\Debug\net10.0-windows\ref\SchedulEase.dll
