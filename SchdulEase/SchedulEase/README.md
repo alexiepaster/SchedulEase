@@ -5,7 +5,6 @@
 | Teacher | T-2026-041   | SchedulEase2026 |
 | Student | 2025-10482   | SchedulEase2026 |
 
-More accounts are in `Data/AuthService.cs`. Replace that list with your real school accounts later.
 
 ## What it does
 - **Role select** -> Teacher or Student -> **Login** (no sign-up).
